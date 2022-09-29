@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name":"Mintyn Bank",
+    "area": "online Service"
+  },
+  {
+    "id": 2,
+    "name":"Fincra",
+    "area": "online Service"
+  },
+  {
+    "id": 3,
+    "name":"Flutterwave",
+    "area": "online Service"
+  },
+  {
+    "id": 4,
+    "name":"Paystack",
+    "area": "online Service"
+  },
+  {
+    "id": 5,
+    "name":"Accelerex",
+    "area": "online Service"
+  },
+  {
+    "id": 6,
+    "name":"PiggyVest",
+    "area": "online Service"
+  },
+    {
+    "id": 7,
+    "name":"Paga",
+    "Area": "online Service"
+  },
+  {
+    "id": 8,
+    "name":"Interswitch",
+    "Area": "online Service"
+  },
+  {
+    "id": 9,
+    "name":"Kuda Bank",
+    "Area": "online Service"
+  },
+  {
+    "id": 10,
+    "name":"E-tranzact",
+    "area": "online Service"
+  },
+  {
+    "id": 11,
+    "name":"Remita (SystemSpecs)",
+    "area": "online Service"
+  },
+  {
+    "id": 12,
+    "name":"Carbon Paylater",
+    "area": "online Service"
+  }
+]
